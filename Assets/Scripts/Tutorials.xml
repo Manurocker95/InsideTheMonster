@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<NewDataSet>
+  <Table1>
+    <TestNumber>2</TestNumber>
+    <TriggerName>First_oscuro</TriggerName>
+    <Description>Have i really just been eaten by a monster?</Description>
+    <Column1 />
+  </Table1>
+  <Table1>
+    <TestNumber>3</TestNumber>
+    <TriggerName>Second_oscuro</TriggerName>
+    <Description>Wow, it's pretty dark in here... Wait, what's this?</Description>
+    <Column1 />
+  </Table1>
+  <Table1>
+    <TestNumber />
+    <TriggerName />
+    <Description />
+    <Column1 />
+  </Table1>
+</NewDataSet>
