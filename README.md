@@ -5,7 +5,7 @@ It is coded in C# but not finished yet.
 
 Controls:
 
-- WD for horizontal movement
+- A/D for horizontal movement
 - Space Bar for jumping
 - Click for using items
 
