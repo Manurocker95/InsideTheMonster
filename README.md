@@ -1,4 +1,4 @@
-# InsideTheMonster
+# InSide the Monster
 A Unity game I made with a friend for MSI Game Jam
 
 It is coded in C# but not finished yet. 
